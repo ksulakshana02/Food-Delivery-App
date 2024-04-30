@@ -1,0 +1,53 @@
+{"products": [
+    {
+        "id": 1,
+        "name":"pizza",
+        "category":"food",
+        "description": "Chicken with Cheese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+        "price": "$50",
+        "rating": 4.5,
+        "reviews": 120
+    },
+    {
+        "id": 2,
+        "name":"coke",
+        "category":"drink",
+        "description": "Coke zero - no sugar",
+        "image": "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/5/5/0/2/1722055-1-eng-GB/Coke-Zero-relaunches-to-end-sugar-free-confusion.jpg",
+        "price": "$10",
+        "rating": 4.8,
+        "reviews": 234
+    },
+    {
+        "id": 3,
+        "name":"Burger",
+        "category":"food",
+        "description": "Double chicken",
+        "image": "https://www.shutterstock.com/image-photo/classic-hamburger-stock-photo-isolated-600nw-2282033179.jpg",
+        "price": "$30",
+        "rating": 4.0,
+        "reviews": 85
+    },
+    {
+        "id": 4,
+        "name":"pizza",
+        "category":"food",
+        "description": "Chicken with Cheese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+        "price": "$50",
+        "rating": 4.5,
+        "reviews": 120
+    },
+    {
+        "id": 5,
+        "name":"pizza",
+        "category":"food",
+        "description": "Chicken with Cheese",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+        "price": "$50",
+        "rating": 4.5,
+        "reviews": 120
+    }
+]
+}

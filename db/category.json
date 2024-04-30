@@ -1,0 +1,29 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Healthy",
+        "icon": "https://cdn-icons-png.flaticon.com/512/4080/4080032.png" 
+      },
+      {
+        "id": 2,
+        "name": "Fast Food",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3703/3703377.png" 
+      },
+      {
+        "id": 3,
+        "name": "Breakfast",
+        "icon": "https://cdn-icons-png.flaticon.com/512/926/926255.png"
+      },
+      {
+        "id": 4,
+        "name": "Italian",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6045/6045709.png" 
+      },
+      {
+        "id": 5,
+        "name": "Indian",
+        "icon": "https://static.vecteezy.com/system/resources/previews/023/963/108/non_2x/indian-food-icon-free-png.png"
+      }
+    ]
+  }
